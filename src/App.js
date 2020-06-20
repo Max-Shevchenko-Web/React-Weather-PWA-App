@@ -12,8 +12,7 @@ const App = () => {
 
       setWeather(data);
       setQuery('');
-    }
-    console.log(weather.main);
+    }    
   }
 
   return (
