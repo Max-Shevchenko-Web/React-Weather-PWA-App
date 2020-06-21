@@ -3,7 +3,7 @@ This is the React JS PWA app for getting weather information for cities around t
 
 You can find out the weather in any city in the world by entering the city name in the search
 
- used by api.openweathermap.org
+Used by API from [https://openweathermap.org](https://openweathermap.org "API")
  
 An example of the work of the PWA application you can see at [example PWA application](https://awesome-wright-0fd8c9.netlify.app "example")
 
@@ -18,7 +18,7 @@ You can save application shortcuts on your mobile or desktop screen.
 
  Вы можете узнать погоду в любом городе мира введя в поиск название города на английском.
 
- используется api.openweathermap.org 
+ Используется API от [https://openweathermap.org](https://openweathermap.org "API")
 
 Пример работы PWA приложения вы можете увидеть по ссылке [Пример работы PWA](https://awesome-wright-0fd8c9.netlify.app "Пример работы PWA")
 
