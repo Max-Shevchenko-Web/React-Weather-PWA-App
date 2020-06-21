@@ -1,4 +1,4 @@
-## React JS PWA weather App
+## React JS PWA Weather App
 This is the React JS PWA app for getting weather information for cities around the world.
 
 You can find out the weather in any city in the world by entering the city name in the search
@@ -28,4 +28,4 @@ You can save application shortcuts on your mobile or desktop screen.
 - установить зависимости: npm install
 - запустить приложение: npm run start
 
-Вы можете сохранить ярлыки приложения на экране мобильного телефона или компьютера
+Вы можете сохранить ярлык приложения на экране мобильного телефона или компьютера
